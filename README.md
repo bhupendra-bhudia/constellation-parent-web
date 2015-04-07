@@ -1,2 +1,4 @@
-# constellation-parent-web
-Celestial space for managing Web projects dependencies
+constellation-parent-web
+====================
+
+Celestial space to host growing projects
